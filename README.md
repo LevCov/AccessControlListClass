@@ -34,6 +34,9 @@ The method shows the access mode of the selected entity to the selected resource
 
 The main function has an example of using this class.
 
-I ran the source code in xcode. Should work on other windows and macos IDE. 
+**Testing**
+Run file from root directory:
 
+1) g++ --std=c++17 -o aclClass aclClass.cpp
+2) ./aclClass
 
